@@ -15,3 +15,4 @@ wp-cache-config.php
 # Ignore configuration files specific to your local environment
 wp-config-local.php
 static
+.person

@@ -16,3 +16,4 @@ wp-cache-config.php
 wp-config-local.php
 static
 .person
+node-modules
